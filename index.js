@@ -1,4 +1,6 @@
-const express = require('express');
+let { myData } = require("./data");
+
+const myVar = 43;
 
 const app = express();
 
