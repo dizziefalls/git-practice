@@ -1,4 +1,6 @@
-const express = require('express');
+const morgan = require("morgan");
+
+const myVar = 43;
 
 const app = express();
 
