@@ -1,4 +1,4 @@
-const morgan = require("morgan");
+let { myData } = require("./data");
 
 const myVar = 43;
 
